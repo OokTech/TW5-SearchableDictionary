@@ -1,0 +1,13 @@
+title: $:/plugins/OokTech/SearchableDictionary/readme
+
+This is a simple searchable dictionary. To use it open the tiddler [[$:/plugins/OokTech/SearchableDictionary/Dictionary]], you add a term by entering the `Term` text field, and add the definition in the `Meaning` text field, then click the `Add Term` button.
+
+You can search the existing terms using the `Search` text box. Clicking on `Edit Dictionary` adds buttons thta will allow you to remove entries from the dictionary.
+
+You can put `{{$:/plugins/OokTech/SearchableDictionary/Dictionary}}` inside any tiddler to display the dictionary in that tiddler.
+
+License: [[BSD 3 Clause|$:/plugins/OokTech/SearchableDictionary/License]]
+
+Creator: [[OokTech|$:/plugins/OokTech/OokTechInfo]]
+
+Source: [[GitHub|https://https://github.com/OokTech/TW5-SearchableDictionary]]

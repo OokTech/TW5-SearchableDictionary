@@ -1,0 +1,6 @@
+title: $:/data/Dictionary
+type: application/json
+
+{
+    "Example": "Delete this entry",
+}

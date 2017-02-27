@@ -1,0 +1,9 @@
+{
+	"title": "$:/plugins/OokTech/SearchableDictionary",
+	"description": "A simple searchable dictionary for TiddlyWiki",
+	"author": "OokTech",
+	"version": "0.1.2",
+	"core-version": ">=5.1.6",
+	"source": "https://github.com/OokTech/TW5-SearchableDictionary",
+	"plugin-type": "plugin"
+}
