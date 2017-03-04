@@ -3,4 +3,4 @@ A simple searchable definitions list type dictionary for tiddlywiki (https://git
 
 You can see an example on the demo site.
 
-Demo Site: http://ooktech.com/jed/ExampleWikis/SearchableDictionary/
+Demo Site: http://ooktech.com/TiddlyWiki/SearchableDictionary/
